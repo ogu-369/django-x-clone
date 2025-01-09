@@ -1,2 +1,3 @@
 # django-x-clone
-This project is a SNS clone with posting and following functions built using Django and Django REST Framework.
+## 1. Overview
+This project aims to develop a functional Twitter-like application using Django. The system will provide features similar to Twitter, including user profiles, tweet creation and display, following/follower relationships, and real-time updates.
